@@ -5,3 +5,4 @@
 !pip install tensorflow opencv-contrib-python youtube-dl moviepy pydot
 !pip install git+https://github.com/TahaAnwar/pafy.git#egg=pafy
 ```
+It is recommended to first run the  `video-classification-LRCN.py` file first then run `video-classification-eval.py`
